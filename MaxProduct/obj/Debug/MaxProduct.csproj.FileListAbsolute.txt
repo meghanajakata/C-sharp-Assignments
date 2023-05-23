@@ -1,0 +1,8 @@
+C:\Users\Meghana Jakata\source\repos\MaxProduct\bin\Debug\MaxProduct.exe.config
+C:\Users\Meghana Jakata\source\repos\MaxProduct\bin\Debug\MaxProduct.exe
+C:\Users\Meghana Jakata\source\repos\MaxProduct\bin\Debug\MaxProduct.pdb
+C:\Users\Meghana Jakata\source\repos\MaxProduct\obj\Debug\MaxProduct.csproj.AssemblyReference.cache
+C:\Users\Meghana Jakata\source\repos\MaxProduct\obj\Debug\MaxProduct.csproj.SuggestedBindingRedirects.cache
+C:\Users\Meghana Jakata\source\repos\MaxProduct\obj\Debug\MaxProduct.csproj.CoreCompileInputs.cache
+C:\Users\Meghana Jakata\source\repos\MaxProduct\obj\Debug\MaxProduct.exe
+C:\Users\Meghana Jakata\source\repos\MaxProduct\obj\Debug\MaxProduct.pdb
