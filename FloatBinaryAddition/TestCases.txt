@@ -1,0 +1,14 @@
+s.No	TestCases					Type-Negative/Positive
+1.	Verify if the application prints the addition 	Positive
+	float number when two float numbers are given
+2.	Verify if the application prints the addition	Positive 
+	float number when two integers are given
+3.	Verify if the application prints the addition	Positive 
+	float number when one integer and one float 
+	is given
+4.	Verify if the application prints the addition	Negative 
+	float number when character input is given
+5.	Verify if the application prints the addition	Negative 
+	float number when only one input is given
+6.	Verify if the application prints the addition	Negative 
+	float number when negative numbers are given

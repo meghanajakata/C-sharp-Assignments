@@ -11,6 +11,7 @@ namespace FindMaximumFourDigitProduct
             string number;
             List<int> result = new List<int>();
             int maximumProduct = 1;
+            Console.WriteLine("Enter the number");
             number = Console.ReadLine();
             Validation validnumber = new Validation();
             bool isValid = validnumber.CheckValidation(number);

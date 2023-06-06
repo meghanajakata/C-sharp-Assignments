@@ -27,10 +27,7 @@ namespace FloatBinaryAddition
             string firstMantissa = GetMantissa(firstBinary, secondBinary, 1);
             string secondMantissa = GetMantissa(firstBinary, secondBinary, 2);
             firstMantissa = firstMantissa + (firstBinary.Split('.'))[1];
-            Console.WriteLine("firstMantissa" + firstMantissa);
-
             secondMantissa = secondMantissa + (secondBinary.Split('.')[1]);
-            Console.WriteLine("secondMantissa" + secondMantissa);
 
             if (firstMantissa.Length > secondMantissa.Length)
             {
@@ -40,9 +37,7 @@ namespace FloatBinaryAddition
             {
                 firstMantissa = firstMantissa + Normalize(secondMantissa.Length - firstMantissa.Length);
             }
-            Console.WriteLine(firstMantissa + '\n' + secondMantissa);
             string result = AddMantissa(firstMantissa, secondMantissa, partition);
-            Console.WriteLine(result);
             return result;
         }
 
@@ -126,8 +121,11 @@ namespace FloatBinaryAddition
     {
         static void Main(string[] args)
         {
-            string firstInteger = Console.ReadLine();
-            string secondInteger = Console.ReadLine();
+            string firstInteger, secondInteger;
+            Console.WriteLine("Enter the first float number");
+            firstInteger = Console.ReadLine();
+            Console.WriteLine("Enter the second float number");
+            secondInteger = Console.ReadLine();
             Validation vObject = new Validation();
             bool isValid = vObject.checkValidation(firstInteger, secondInteger);
             if (isValid == false) return;

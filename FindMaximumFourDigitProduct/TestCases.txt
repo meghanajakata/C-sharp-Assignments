@@ -1,2 +1,15 @@
-TestCase - 1:
-Description : 
+s.No	TestCases					Type-Negative/Positive
+1.	Verify if the application prints		Positive
+	Maximum product when integers are given		
+2.	Verify if the application prints		Negative
+	Maximum product when negative numbers are
+	given
+3.	Verify if the application prints		Negative		
+	Maximum product when characters are given 
+4.	Verify if the application prints		Negative
+	Maximum product when length of below 4 is 
+	given
+5.	Verify if the application prints Maximum	Positive
+	Product when integer length of 4 is given
+6.	Verify if the application prints		Negative	
+	Maximum product when no input is given

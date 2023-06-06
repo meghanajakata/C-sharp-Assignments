@@ -6,3 +6,11 @@ C:\Users\Meghana Jakata\source\repos\FindMaximumFourDigitProduct\obj\Debug\FindM
 C:\Users\Meghana Jakata\source\repos\FindMaximumFourDigitProduct\obj\Debug\FindMaximumFourDigitProduct.csproj.CoreCompileInputs.cache
 C:\Users\Meghana Jakata\source\repos\FindMaximumFourDigitProduct\obj\Debug\FindMaximumFourDigitProduct.exe
 C:\Users\Meghana Jakata\source\repos\FindMaximumFourDigitProduct\obj\Debug\FindMaximumFourDigitProduct.pdb
+C:\Users\Meghana Jakata\source\repos\C#\C-sharp-Assignments\FindMaximumFourDigitProduct\bin\Debug\FindMaximumFourDigitProduct.exe.config
+C:\Users\Meghana Jakata\source\repos\C#\C-sharp-Assignments\FindMaximumFourDigitProduct\bin\Debug\FindMaximumFourDigitProduct.exe
+C:\Users\Meghana Jakata\source\repos\C#\C-sharp-Assignments\FindMaximumFourDigitProduct\bin\Debug\FindMaximumFourDigitProduct.pdb
+C:\Users\Meghana Jakata\source\repos\C#\C-sharp-Assignments\FindMaximumFourDigitProduct\obj\Debug\FindMaximumFourDigitProduct.csproj.AssemblyReference.cache
+C:\Users\Meghana Jakata\source\repos\C#\C-sharp-Assignments\FindMaximumFourDigitProduct\obj\Debug\FindMaximumFourDigitProduct.csproj.SuggestedBindingRedirects.cache
+C:\Users\Meghana Jakata\source\repos\C#\C-sharp-Assignments\FindMaximumFourDigitProduct\obj\Debug\FindMaximumFourDigitProduct.csproj.CoreCompileInputs.cache
+C:\Users\Meghana Jakata\source\repos\C#\C-sharp-Assignments\FindMaximumFourDigitProduct\obj\Debug\FindMaximumFourDigitProduct.exe
+C:\Users\Meghana Jakata\source\repos\C#\C-sharp-Assignments\FindMaximumFourDigitProduct\obj\Debug\FindMaximumFourDigitProduct.pdb
