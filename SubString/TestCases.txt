@@ -1,0 +1,16 @@
+s.No	TestCases					Type-Negative/Positive
+1.	Verify if the application prints indices 	Positive
+	and count when firstString is larger than
+	secondString
+2.	Verify if the application prints indices 	Positive
+	and count when two strings of equal length 
+	is given
+3.	Verify if the application prints indices	Negative
+	and count when firstString is smaller than
+	secondString
+4.	Verify if the application prints indices 	Negative
+	and count when only firstString is given
+5.	Verify if the application prints indices	Negative
+	and count when only secondString is given	
+6.	Verify if the application prints indices	Negative
+	and count when no input is given

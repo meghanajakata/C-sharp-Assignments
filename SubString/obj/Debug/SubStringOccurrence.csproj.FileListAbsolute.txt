@@ -1,0 +1,12 @@
+C:\Users\Meghana Jakata\source\repos\SubString\bin\Debug\SubString.exe.config
+C:\Users\Meghana Jakata\source\repos\SubString\bin\Debug\SubString.exe
+C:\Users\Meghana Jakata\source\repos\SubString\bin\Debug\SubString.pdb
+C:\Users\Meghana Jakata\source\repos\SubString\bin\Debug\FindMaximumFourDigitProduct.exe
+C:\Users\Meghana Jakata\source\repos\SubString\bin\Debug\FindMaximumFourDigitProduct.pdb
+C:\Users\Meghana Jakata\source\repos\SubString\bin\Debug\FindMaximumFourDigitProduct.exe.config
+C:\Users\Meghana Jakata\source\repos\SubString\obj\Debug\SubStringOccurrence.csproj.AssemblyReference.cache
+C:\Users\Meghana Jakata\source\repos\SubString\obj\Debug\SubStringOccurrence.csproj.SuggestedBindingRedirects.cache
+C:\Users\Meghana Jakata\source\repos\SubString\obj\Debug\SubStringOccurrence.csproj.CoreCompileInputs.cache
+C:\Users\Meghana Jakata\source\repos\SubString\obj\Debug\SubStringOccurrence.csproj.CopyComplete
+C:\Users\Meghana Jakata\source\repos\SubString\obj\Debug\SubString.exe
+C:\Users\Meghana Jakata\source\repos\SubString\obj\Debug\SubString.pdb
