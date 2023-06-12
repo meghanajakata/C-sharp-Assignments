@@ -1,0 +1,6 @@
+C:\Users\Meghana Jakata\source\repos\ThreeTierExample\BusinessObject\bin\Debug\BusinessObject.dll
+C:\Users\Meghana Jakata\source\repos\ThreeTierExample\BusinessObject\bin\Debug\BusinessObject.pdb
+C:\Users\Meghana Jakata\source\repos\ThreeTierExample\BusinessObject\obj\Debug\BusinessObject.csproj.AssemblyReference.cache
+C:\Users\Meghana Jakata\source\repos\ThreeTierExample\BusinessObject\obj\Debug\BusinessObject.csproj.CoreCompileInputs.cache
+C:\Users\Meghana Jakata\source\repos\ThreeTierExample\BusinessObject\obj\Debug\BusinessObject.dll
+C:\Users\Meghana Jakata\source\repos\ThreeTierExample\BusinessObject\obj\Debug\BusinessObject.pdb
