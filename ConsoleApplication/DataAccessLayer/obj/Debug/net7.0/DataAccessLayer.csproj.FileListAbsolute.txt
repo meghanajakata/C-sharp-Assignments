@@ -1,0 +1,12 @@
+C:\Users\Meghana Jakata\source\repos\ConsoleApplication\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.deps.json
+C:\Users\Meghana Jakata\source\repos\ConsoleApplication\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.dll
+C:\Users\Meghana Jakata\source\repos\ConsoleApplication\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.pdb
+C:\Users\Meghana Jakata\source\repos\ConsoleApplication\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Meghana Jakata\source\repos\ConsoleApplication\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meghana Jakata\source\repos\ConsoleApplication\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Meghana Jakata\source\repos\ConsoleApplication\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\Meghana Jakata\source\repos\ConsoleApplication\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Meghana Jakata\source\repos\ConsoleApplication\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.dll
+C:\Users\Meghana Jakata\source\repos\ConsoleApplication\DataAccessLayer\obj\Debug\net7.0\refint\DataAccessLayer.dll
+C:\Users\Meghana Jakata\source\repos\ConsoleApplication\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.pdb
+C:\Users\Meghana Jakata\source\repos\ConsoleApplication\DataAccessLayer\obj\Debug\net7.0\ref\DataAccessLayer.dll
